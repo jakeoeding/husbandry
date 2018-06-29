@@ -1,0 +1,12 @@
+﻿-----------------------------------------------
+You are a poor farmer.
+Your objective is to provide for your family.
+You currently have a wife and two kids.
+Each day, you can plant crops or milk your cow.
+You have two choices of crops: corn and wheat.
+Corn takes longer to grow, but is easier to harvest.
+Wheat is quicker and harder to grow than corn. It also provides more food than corn upon successful harvest.
+In order to surive each day, you will need to have at least 1 corn or wheat for each member of your family.
+Additionally, you will need one milk for you and your family to split each day.
+Last warning: The world is unpredictable. Do your best to plan ahead!
+-----------------------------------------------

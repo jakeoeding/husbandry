@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Husbandry", "Husbandry.csproj", "{CADDC795-425E-484D-8669-E57EA5EBCB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Husbandry.Tests", "Husbandry.Tests\Husbandry.Tests.csproj", "{4367EC39-01B6-401D-8D4D-0F602BED7553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADDC795-425E-484D-8669-E57EA5EBCB86}.Debug|x86.ActiveCfg = Debug|x86
+		{CADDC795-425E-484D-8669-E57EA5EBCB86}.Debug|x86.Build.0 = Debug|x86
+		{CADDC795-425E-484D-8669-E57EA5EBCB86}.Release|x86.ActiveCfg = Release|x86
+		{CADDC795-425E-484D-8669-E57EA5EBCB86}.Release|x86.Build.0 = Release|x86
+		{4367EC39-01B6-401D-8D4D-0F602BED7553}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4367EC39-01B6-401D-8D4D-0F602BED7553}.Debug|x86.Build.0 = Debug|Any CPU
+		{4367EC39-01B6-401D-8D4D-0F602BED7553}.Release|x86.ActiveCfg = Release|Any CPU
+		{4367EC39-01B6-401D-8D4D-0F602BED7553}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
